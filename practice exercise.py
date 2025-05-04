@@ -1,8 +1,8 @@
 
 #arithmetic operations
 
-a = float(input("Enter your number?"))
-b = float(input("Enter your number?"))
+a = int(input("Enter your number?"))
+b = int(input("Enter your number?"))
 total = a + b
 total = a * b
 total = a / b
